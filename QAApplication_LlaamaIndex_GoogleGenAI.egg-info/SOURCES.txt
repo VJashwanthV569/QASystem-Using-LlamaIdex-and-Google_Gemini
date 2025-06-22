@@ -1,0 +1,9 @@
+setup.py
+QAApplication_LlaamaIndex_GoogleGenAI.egg-info/PKG-INFO
+QAApplication_LlaamaIndex_GoogleGenAI.egg-info/SOURCES.txt
+QAApplication_LlaamaIndex_GoogleGenAI.egg-info/dependency_links.txt
+QAApplication_LlaamaIndex_GoogleGenAI.egg-info/top_level.txt
+QAWithContext/__init__.py
+QAWithContext/data_ingestion.py
+QAWithContext/embedding.py
+QAWithContext/model_api.py
