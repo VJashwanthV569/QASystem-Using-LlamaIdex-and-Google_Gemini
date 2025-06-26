@@ -1,5 +1,8 @@
 "# QASystem-Using-LlamaIdex-and-Google_Gemini" 
 
+Overview of Architecture of this applcation : 
+![Overview of Architecture](https://github.com/user-attachments/assets/b80bae97-e386-4584-b374-288ec2ba0206)
+
 Steps followed to develop this application : (Editor used - VSCODE)
 1.  Initialized a git repository :(Names of folder written in .giignore are ignored)
 git init
