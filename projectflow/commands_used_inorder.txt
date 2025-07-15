@@ -1,6 +1,6 @@
 1.  Initialized a git repository :(Names of folder written in .giignore are ignored)
 git init
-(Recommended : venv,.env  => This shouldn't be shared with others)
+(Recommended : venv,.env)
 
 2.  Initially, Go to View -> Command Palette -> Python: Select Interpreter ->  Select ('base') environment
     eg : (base) C:\Users\jashw\Documents\BTECH CSE CORE\GenAI\QASystem>
@@ -20,7 +20,7 @@ eg : conda activate "C:\Users\jashw\Documents\BTECH CSE CORE\GenAI\QASystem\venv
     6.1 To run experiments,download the kernel:
         conda install ipykernel --update-deps --force-reinstall
 
-7. Create a Google Gemini API key through : https://aistudio.google.com/u/2/apikey => Create API key
+7. Create a Google Gemini API key through : https://aistudio.google.com/u/2/apikey => Create API key (This shouldn't be shared with others)
 
 8. Create a .env file then store the Google Gemini API key(.env is a portable environment hidden file,used for storing for confidential information)
 
