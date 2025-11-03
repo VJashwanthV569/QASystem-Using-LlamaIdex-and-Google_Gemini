@@ -76,9 +76,7 @@ The output looks something like this :
 
 Note:The RAG application doesn't hallucinate or give plausible-sounding results or give incorrect results if the uploaded document is not relevant to the asked query:
 Here,input(.pdf) : I have uploaded a pdf which is DBMS reference lab manual
-     
      query : I asked a query related to Binary Search Algorithm which comes under Data Structures and Algorithms
-     
      output :
      <img width="721" height="454" alt="Screenshot 2025-10-30 195819" src="https://github.com/user-attachments/assets/f8657d25-a57a-448e-8b93-8890a0408d42" />
 
